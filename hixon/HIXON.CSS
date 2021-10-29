@@ -1,0 +1,363 @@
+.hixon{
+    background-image: url("https://i.pinimg.com/originals/b6/da/81/b6da81c0022a589d5ca8f857e67dbb0e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.hI{
+    color: rgb(18, 231, 231);
+    font-weight: bolder;
+    font-size: 40px;
+    font-family:  sans-serif;
+}
+.XON{
+    color: white;
+    font-weight: bolder;
+    font-size: 40px;
+    font-family:  sans-serif;
+}
+.home{
+    background-color: rgb(6, 158, 158);
+    border-radius: 50% 50%;
+    text-align: center;
+}
+.creative_digital{
+    color: white;
+     font-size: 50px;
+     font-weight: 500;
+     margin-top: 20%;
+     text-transform: capitalize;
+     font-family:  sans-serif;
+}
+.De_build{
+    color: white;
+    font-size: 70px;
+    font-weight: bolder;
+    font-family:  sans-serif;
+}
+.UI_UX{
+    color: silver;
+    font-size: 32px;
+    font-weight: 100;
+    font-family:  sans-serif;
+}
+.view_portfolio{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+    font-family:  sans-serif;
+    padding: 10px; 
+}
+ul a{
+    color: white;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin: 10px;    
+}
+ul a:hover{
+    color: red;
+    text-transform: capitalize;
+    font-weight: 500;
+    margin: 10px;    
+}
+/* second section */
+.hixon2{
+    background-image: url("https://qph.fs.quoracdn.net/main-qimg-c49414ee191e447733186b510f78df8f");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.About_me{
+    margin-top: 8%;
+    font-size: 30px;
+    font-weight: 500;
+    font-family: sans-serif;
+}
+.john_due{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    width: 60%;
+}
+.john_due2{
+    color: rgb(203, 224, 198);
+    width: 50%;
+}
+.name{
+    font-size: 15px;
+    
+}
+.JOHN{
+    color: white;
+    width: 100%;
+}
+/* 3rd section */
+.hixon3{
+    background-color: rgb(81, 63, 199);  
+}
+.what_we_do{
+    margin-top: 10%;
+    color: rgb(30, 250, 250);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.design{
+    background-image: url("https://pre00.deviantart.net/bf9e/th/pre/i/2016/156/3/d/drawing_by_lpspinkcupid101-da5573t.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.UI_UX_design{
+    color: white;
+    font-size: 20px;
+    margin-top: 5%;
+    margin-left: 4%;
+}
+.UI_UX_design2{
+    color: silver;
+    font-size: 15px;
+    margin-top: 5%;
+    margin-left: 4%;
+    width: 100%;
+}
+/* 4th section */
+.hixon4{
+    background-color: rgb(20, 181, 187);
+}
+.my_creative_work{
+  margin-top: 20%;
+  color: rgb(249, 251, 252);
+  font-size: 25px;
+  font-weight: bold;
+  font-family: sans-serif;
+  text-transform: capitalize;
+}
+.my_creative_work2{
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    width: 80%; 
+}
+.my_creative_work3{
+    color: black;
+}
+.all{
+    padding: 1%;
+    margin: 1%;
+    border-radius: 30% 30%;
+}
+/* 5th section */
+.hixon5{
+    background-color: rgb(81, 63, 199);  
+
+}
+.web_design{
+    width:90%;
+    color: aqua;
+}
+.web_design_1{
+    width:70%;
+    color: aqua;
+}
+.web_design_2{
+    width:80%;
+    color: aqua;
+}
+.web_design_3{
+    width:100%;
+    color: aqua;
+}
+.What_Skills{
+    margin-left: 20%;
+}
+.What_Skills2{
+    margin-top: 20%;
+    color: rgb(76, 160, 202);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.What_Skills3{
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: white;
+    width: 100%;
+}
+.What_Skills4{
+    color: silver;
+}
+.What_Skills5{
+    color: rgb(249, 251, 252);
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.education{
+    margin-top: 18%;
+    color:  rgb(76, 160, 202); 
+    font-size: 25px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.Lorem_ipsum{
+    color: aliceblue;
+    width: 100%;
+    font-size: 10px;
+}
+.education_1{
+    color:  rgb(76, 160, 202);
+    font-size: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.Studied{
+    color: aliceblue;
+    width: 100%;
+    font-size: 15px;
+} 
+.Lorem_ipsum_2{
+    color: silver;
+    width: 100%;
+    font-size: 9px;  
+}
+/* 6th section */
+.hixon6{
+    background-color: rgb(118, 210, 247);
+    color: slateblue;
+}
+.PROJECT_COMPLETED{
+    font-size: 9px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform:uppercase ;
+    text-align: center;
+    margin-bottom:20%;
+}
+.happy_customers{
+  position:relative;
+  left: 40%;
+  margin-top: 30%;
+}
+/* 7th section */
+.hixon7{
+    background-color: rgb(86, 70, 189); 
+}
+.our_blog{
+    margin-top: 10%;
+    color: rgb(76, 160, 202);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+.our_blog_1{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    color: rgb(250, 250, 250);
+    margin-bottom: 3%;
+}
+.our_blog_2{
+    background-color: rgb(38, 23, 131);
+    border-radius: 40px;
+}
+.read_more{
+    color: cyan;
+    text-transform: capitalize;
+}
+/* section-8 */
+.hixon8{
+    background-color: rgb(20, 7, 105);
+    padding-bottom: 10%;
+}
+.Princing{
+    color: rgb(18, 240, 240);
+    font-size: 25px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: sans-serif; 
+    padding-top: 10%; 
+}
+.Uniquely{
+    color: rgb(249, 250, 250);
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: sans-serif; 
+}
+.SILIVER{
+    color: rgb(18, 240, 240);
+    margin-top: 5%;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.card_group{
+    background-color: rgb(32, 32, 158);
+    border-radius: 5%;
+    color: rgb(245, 248, 250);
+}
+.support{
+    color: rgb(18, 240, 240);
+
+}
+.card_group1{
+    background-color: rgb(18, 240, 240);
+    color: rgb(32, 32, 158);
+}
+.SILIVER1{
+    color: rgb(32, 32, 158);
+    margin-top: 5%;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: sans-serif;  
+}
+.card_group2{
+    background-color: rgb(32, 32, 158); 
+}
+/* 9th section */
+.contact{
+    color: rgb(18, 240, 240);
+    margin-top: 5%;
+    font-size: 30px;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.contact1{
+    background-color:slateblue; 
+    background-image: url(https://skinandcomiami.com/wp-content/uploads/2020/10/LOcation_dole.jpg);
+    background-position-y: 100%;
+    background-repeat: no-repeat;
+    background-size:100%;
+    padding-bottom: 10%;
+    }
+.iam{
+    color: white;
+    font-size: 30px;
+    width: 50%;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+.name_1{
+  border: none;
+  background-color: transparent;
+    
+}
+.jumbotron{
+    background-color:rgb(96, 82, 189); 
+    color: aliceblue;
+    border-radius: 5% 5%;
+}
+.hixon_10{
+    background-color: blueviolet;
+    color: aliceblue;
+}
